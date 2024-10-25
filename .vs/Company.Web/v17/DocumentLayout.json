@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1304C1B-5B89-4156-A27C-F9C78041E836}|Company.Services\\Company.Services.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.services\\services\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1304C1B-5B89-4156-A27C-F9C78041E836}|Company.Services\\Company.Services.csproj|solutionrelative:company.services\\services\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|c:\\users\\user\\downloads\\route_mvc_companyweb-main\\route_mvc_companyweb-main\\company.web\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F3CA1F8-F84D-425A-BB2D-2C00C1C2AD7D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Services\\Services\\Helper\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Company.Services\\Services\\Helper\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Services\\Services\\Helper\\EmailSettings.cs",
+              "RelativeToolTip": "Company.Services\\Services\\Helper\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:47:36.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Department\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:43:22.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:43:19.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Department\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Department\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:43:15.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\User\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:43:10.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:43:08.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:43:07.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:19:29.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Home\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Home\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Home\\NotFound.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Home\\NotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:16:05.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:13:58.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:13:39.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:13:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:13:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:13:03.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CheckYourInbox.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\CheckYourInbox.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\CheckYourInbox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:10:59.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:09:02.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T17:06:12.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:03:30.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T16:42:52.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T16:40:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T16:39:59.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Program.cs",
+              "RelativeToolTip": "Company.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:47:44.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Route_MVC_CompanyWeb-main\\Route_MVC_CompanyWeb-main\\Company.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:44:37.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Hero Section Styling -->
+<style>
+    .hero-section {
+        background: url('/images/home-background.jpg') no-repeat center center fixed; /* Replace with your image path */
+        background-size: cover;
+        color: white;
+        text-align: center;
+        padding: 100px 20px;
+    }
+
+    .hero-content {
+        background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent overlay */
+        padding: 50px;
+        border-radius: 10px;
+        display: inline-block;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 20px;
+        font-size: 1.1rem;
+    }
+
+    .hero-text {
+        font-size: 1.25rem;
+        margin-top: 20px;
+    }
+</style>
+
+<div class="hero-section d-flex justify-content-center align-items-center vh-100">
+    <div class="hero-content">
+        <h1 class="display-4">Welcome to Our Website</h1>
+        <p class="hero-text">Discover the power of building modern web apps with ASP.NET Core.</p>
+        <a href="https://learn.microsoft.com/aspnet/core" class="btn btn-primary mt-4" target="_blank">Learn More</a>
+    </div>
+</div>

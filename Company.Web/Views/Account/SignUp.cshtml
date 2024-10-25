@@ -1,0 +1,88 @@
+﻿@model SignUpViewModel
+@{
+    ViewData["Title"] = "SignUp";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<!-- Full-page background image styling -->
+<style>
+    body {
+        background: url('/images/background.jpg') no-repeat center center fixed; /* Replace with the path to your background image */
+        background-size: cover;
+    }
+
+    .signup-card {
+        background-color: rgba(255, 255, 255, 0.85); /* Semi-transparent white */
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    .form-control, .btn-primary {
+        border-radius: 5px;
+    }
+
+    .text-dark a {
+        color: #007bff; /* Bootstrap's primary color */
+    }
+</style>
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="card signup-card shadow-lg" style="width: 100%; max-width: 400px;">
+        <h2 class="card-title text-center mb-4 text-dark">Sign Up</h2>
+
+        <form asp-action="SignUp" method="post">
+            <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+            <div class="form-group">
+                <label asp-for="FirstName" class="form-label text-dark">First Name</label>
+                <input type="text" asp-for="FirstName" placeholder="First Name" class="form-control">
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="LastName" class="form-label text-dark">Last Name</label>
+                <input type="text" asp-for="LastName" placeholder="Last Name" class="form-control">
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="Email" class="form-label text-dark">Email</label>
+                <input type="email" asp-for="Email" placeholder="Email" class="form-control">
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="Password" class="form-label text-dark">Password</label>
+                <input type="password" asp-for="Password" placeholder="Password" class="form-control">
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="ConfirmPassword" class="form-label text-dark">Confirm Password</label>
+                <input type="password" asp-for="ConfirmPassword" placeholder="Confirm Password" class="form-control">
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-check mb-3">
+                <input type="checkbox" required class="form-check-input" id="terms">
+                <label class="form-check-label text-dark" for="terms">
+                    I Agree To The Terms & Conditions
+                </label>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100">Sign Up</button>
+        </form>
+
+        <hr class="my-4">
+
+        <p class="text-center text-dark">
+            Already have an account?
+            <a asp-action="Login" class="text-decoration-none">Login Now!</a>
+        </p>
+    </div>
+</div>

@@ -1,0 +1,34 @@
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\bin\Debug\net8.0\Company.Services.deps.json
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\bin\Debug\net8.0\Company.Services.dll
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\bin\Debug\net8.0\Company.Services.pdb
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\bin\Debug\net8.0\Company.Data.dll
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\bin\Debug\net8.0\Company.Repository.dll
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\bin\Debug\net8.0\Company.Repository.pdb
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\bin\Debug\net8.0\Company.Data.pdb
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.csproj.AssemblyReference.cache
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.AssemblyInfoInputs.cache
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.AssemblyInfo.cs
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.csproj.CoreCompileInputs.cache
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\obj\Debug\net8.0\Company..F1B44784.Up2Date
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.dll
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\obj\Debug\net8.0\refint\Company.Services.dll
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\obj\Debug\net8.0\Company.Services.pdb
+C:\Users\Abdulla Hisham\source\repos\Company.Web\Company.Services\obj\Debug\net8.0\ref\Company.Services.dll
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\bin\Debug\net8.0\Company.Services.deps.json
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\bin\Debug\net8.0\Company.Services.dll
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\bin\Debug\net8.0\Company.Services.pdb
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\bin\Debug\net8.0\Company.Data.dll
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\bin\Debug\net8.0\Company.Repository.dll
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\bin\Debug\net8.0\Company.Repository.pdb
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\bin\Debug\net8.0\Company.Data.pdb
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\obj\Debug\net8.0\Company.Services.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\obj\Debug\net8.0\Company.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\obj\Debug\net8.0\Company.Services.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\obj\Debug\net8.0\Company.Services.AssemblyInfo.cs
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\obj\Debug\net8.0\Company.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\obj\Debug\net8.0\Company..F1B44784.Up2Date
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\obj\Debug\net8.0\Company.Services.dll
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\obj\Debug\net8.0\refint\Company.Services.dll
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\obj\Debug\net8.0\Company.Services.pdb
+C:\Users\user\Downloads\Route_MVC_CompanyWeb-main\Route_MVC_CompanyWeb-main\Company.Services\obj\Debug\net8.0\ref\Company.Services.dll
